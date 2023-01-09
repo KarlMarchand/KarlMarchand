@@ -1,18 +1,3 @@
-<!--
-**KarlMarchand/KarlMarchand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div id="unicorn" align="center">
   <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="300px"/>
   <br/><br/>
@@ -70,8 +55,16 @@ Here are some ideas to get you started:
   </div>
 </div>
 
+<!-- Stats fonctionnent juste sur les repos publiques
+
 <div id="stats">
   <h2>
   📊 Stats
   </h2>
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarlMarchand&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KarlMarchand&theme=tokyonight)](https://git.io/streak-stats)
+
+-->
