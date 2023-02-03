@@ -55,7 +55,7 @@
   </div>
 </div>
 
-<!-- Stats fonctionnent juste sur les repos publiques
+<!-- Stats fonctionnent juste sur les repos publiques -->
 
 <div id="stats">
   <h2>
@@ -66,5 +66,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarlMarchand&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KarlMarchand&theme=tokyonight)](https://git.io/streak-stats)
-
--->
