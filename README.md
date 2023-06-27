@@ -22,7 +22,7 @@
   </h2>
   I'm a Fullstack developer with a strong preference for backend and software development.
   
-  - 🔭 Working on personnal projects until I find my first job.
+  - 🔭 Working on personnal projects that usually have something to do with AI or games.
   
   - 🌱 Learning NLP, Transformers, .Net and Typescript
   
