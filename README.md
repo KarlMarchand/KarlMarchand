@@ -42,9 +42,10 @@
     <img title="Python" alt="Python" with="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>&nbsp;
     <img title="Typescript" alt="Typescript" with="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"/>&nbsp;
     <img title="CSharp" alt="CSharp" with="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"/>&nbsp;
-    <img title="Java" alt="Java" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"/>&nbsp;
     <img title="Php" alt="Php" with="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"/>&nbsp;
     <img title="NodeJS" alt="NodeJS" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"/>&nbsp;
+    <img title="Java" alt="Java" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"/>&nbsp;
+    <img title="Angular" alt="Angular" with="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"/>&nbsp;
     <img title="React" alt="React" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"/>&nbsp;
     <img title="Vue" alt="Vue" with="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"/>&nbsp;
     <img title="MongoDB" alt="MongoDB" with="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"/>&nbsp;
