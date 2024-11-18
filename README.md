@@ -20,13 +20,13 @@
   <h2>
     🧙‍♂️ About me
   </h2>
-  I'm a Fullstack developer with a strong preference for backend and software development.
+  I'm a Fullstack developer working mostly with .Net but I also enjoy using Python and NodeJs for my smaller projects.
   
-  - 🔭 Working on personnal projects that usually have something to do with AI or games.
+  - 🔭 Working on personnal projects that usually have something to do with my hobbies.
   
-  - 🌱 Learning NLP, Transformers, .Net and Typescript
+  - 🌱 Learning .Net, AI, Devops, Software Architecture and Patterns.
   
-  - 🤝 Collaborating with my partner on a new project concerning TTRPGs
+  - 🤝 Collaborating with my partner on a new project concerning TTRPGs management.
 
   - ⚡ Some of my many hobbies includes TTRPG, Boardgames, Video Games and Coding.
   
@@ -38,21 +38,18 @@
     💻 Technologies
   </h2>
   <div>
-    <img title="JavaScript" alt="JavaScript" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>&nbsp;
-    <img title="Python" alt="Python" with="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>&nbsp;
-    <img title="Typescript" alt="Typescript" with="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"/>&nbsp;
     <img title="CSharp" alt="CSharp" with="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"/>&nbsp;
-    <img title="Php" alt="Php" with="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"/>&nbsp;
+    <img title="Python" alt="Python" with="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>&nbsp;
     <img title="NodeJS" alt="NodeJS" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"/>&nbsp;
-    <img title="Java" alt="Java" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"/>&nbsp;
+    <img title="JavaScript" alt="JavaScript" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>&nbsp;
+    <img title="Typescript" alt="Typescript" with="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"/>&nbsp;
     <img title="Angular" alt="Angular" with="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"/>&nbsp;
     <img title="React" alt="React" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"/>&nbsp;
-    <img title="Vue" alt="Vue" with="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"/>&nbsp;
     <img title="MongoDB" alt="MongoDB" with="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"/>&nbsp;
     <img title="Postgresql" alt="Postgresql" with="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"/>&nbsp;
-    <img title="MySQL"  alt="MySQL" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"/>&nbsp;
-    <img title="Sqlite" alt="Sqlite" with="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+    <img title="MsSql" alt="MsSql" with="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg"/>&nbsp;
+    <img title="Azure" alt="Azure" with="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg"/>&nbsp;
+    <img title="Git" **alt="Git" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"/>
   </div>
 </div>
 
